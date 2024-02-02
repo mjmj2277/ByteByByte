@@ -10,7 +10,7 @@
 
 ## 1과목: 소프트웨어 설계
 
-* 소프트웨어 생명 주기, SDLC(Software Development Life Cycle)
+* ~~소프트웨어 생명 주기, SDLC(Software Development Life Cycle)~~
 * 스크럼(Scrum) 기법
 * XP 기법
 * 개발 기술 환경 파악
