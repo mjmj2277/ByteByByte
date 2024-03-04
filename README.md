@@ -1,4 +1,7 @@
-## 🚩EngineerInformationProcessing
+# ByteByByte
+기초부터 차근히 IT 지식을 쌓아가는 학습 공간
+
+## 🚩 EngineerInformationProcessing
 - [정보처리 기사](https://github.com/mjmj2277/ITCertificationRepo/tree/main/EngineerInformationProcessing)
 - 2024년 정보처리 기사 대비
 
